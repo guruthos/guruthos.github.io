@@ -1,0 +1,137 @@
+2025-04-16 23:34:56,355 - INFO - Script starting.
+2025-04-16 23:34:56,356 - INFO - Scanning folder: D:\Media\Movies
+2025-04-16 23:34:56,358 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,443 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Akira&year=1988 HTTP/1.1" 200 None
+2025-04-16 23:34:56,445 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,502 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Alien&year=1979 HTTP/1.1" 200 None
+2025-04-16 23:34:56,504 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,554 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Aliens&year=1986 HTTP/1.1" 200 None
+2025-04-16 23:34:56,556 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,599 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Back+to+the+Future&year=1985 HTTP/1.1" 200 None
+2025-04-16 23:34:56,601 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,658 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Back+to+the+Future+Part+II&year=1989 HTTP/1.1" 200 None
+2025-04-16 23:34:56,660 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,713 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Back+to+the+Future+Part+III&year=1990 HTTP/1.1" 200 None
+2025-04-16 23:34:56,715 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,775 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Batman&year=1989 HTTP/1.1" 200 None
+2025-04-16 23:34:56,776 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,832 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Batman+Begins&year=2005 HTTP/1.1" 200 None
+2025-04-16 23:34:56,833 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,880 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Beetlejuice&year=1988 HTTP/1.1" 200 None
+2025-04-16 23:34:56,882 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,935 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Blue+Velvet&year=1986 HTTP/1.1" 200 None
+2025-04-16 23:34:56,937 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:56,994 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Chef&year=2014 HTTP/1.1" 200 None
+2025-04-16 23:34:56,996 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,043 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Dark+City&year=1998 HTTP/1.1" 200 None
+2025-04-16 23:34:57,045 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,101 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Defending+Your+Life&year=1991 HTTP/1.1" 200 None
+2025-04-16 23:34:57,103 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,159 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Die+Hard&year=1988 HTTP/1.1" 200 None
+2025-04-16 23:34:57,160 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,209 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Dredd&year=2012 HTTP/1.1" 200 None
+2025-04-16 23:34:57,210 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,263 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Dune&year=2021 HTTP/1.1" 200 None
+2025-04-16 23:34:57,264 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,312 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Dune+Part+Two&year=2024 HTTP/1.1" 200 None
+2025-04-16 23:34:57,313 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,362 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Enemy&year=2014 HTTP/1.1" 200 None
+2025-04-16 23:34:57,364 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,421 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Ex+Machina&year=2014 HTTP/1.1" 200 None
+2025-04-16 23:34:57,423 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,475 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Freddy+Got+Fingered&year=2001 HTTP/1.1" 200 None
+2025-04-16 23:34:57,477 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,531 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Ghostbusters&year=1984 HTTP/1.1" 200 None
+2025-04-16 23:34:57,533 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,597 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Heat&year=1995 HTTP/1.1" 200 None
+2025-04-16 23:34:57,599 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,653 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Hereditary&year=2018 HTTP/1.1" 200 None
+2025-04-16 23:34:57,655 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,703 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Hot+Fuzz&year=2007 HTTP/1.1" 200 None
+2025-04-16 23:34:57,705 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,758 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Interstellar&year=2014 HTTP/1.1" 200 None
+2025-04-16 23:34:57,760 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,816 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Jurassic+Park&year=1993 HTTP/1.1" 200 None
+2025-04-16 23:34:57,817 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,870 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Krampus&year=2015 HTTP/1.1" 200 None
+2025-04-16 23:34:57,872 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,928 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Lake+Mungo&year=2008 HTTP/1.1" 200 None
+2025-04-16 23:34:57,930 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:57,987 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Mad+Max+Fury+Road&year=2015 HTTP/1.1" 200 None
+2025-04-16 23:34:57,988 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,046 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Nightcrawler&year=2014 HTTP/1.1" 200 None
+2025-04-16 23:34:58,047 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,105 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Nosferatu&year=2024 HTTP/1.1" 200 None
+2025-04-16 23:34:58,106 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,161 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Predator&year=1987 HTTP/1.1" 200 None
+2025-04-16 23:34:58,162 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,220 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Se7en&year=1995 HTTP/1.1" 200 None
+2025-04-16 23:34:58,222 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,282 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Serenity&year=2005 HTTP/1.1" 200 None
+2025-04-16 23:34:58,284 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,345 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Shaun+of+the+Dead&year=2004 HTTP/1.1" 200 None
+2025-04-16 23:34:58,346 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,410 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Sicario&year=2015 HTTP/1.1" 200 None
+2025-04-16 23:34:58,411 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,462 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Starship+Troopers&year=1997 HTTP/1.1" 200 None
+2025-04-16 23:34:58,464 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,517 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Terminator+2+Judgment+Day&year=1991 HTTP/1.1" 200 None
+2025-04-16 23:34:58,518 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,570 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Abyss&year=1989 HTTP/1.1" 200 None
+2025-04-16 23:34:58,572 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,630 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Big+Lebowski&year=1998 HTTP/1.1" 200 None
+2025-04-16 23:34:58,631 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,685 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Blair+Witch+Project&year=1999 HTTP/1.1" 200 None
+2025-04-16 23:34:58,686 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,731 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Dark+Knight&year=2008 HTTP/1.1" 200 None
+2025-04-16 23:34:58,733 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,794 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Dark+Knight+Rises&year=2012 HTTP/1.1" 200 None
+2025-04-16 23:34:58,795 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,859 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Fifth+Element&year=1997 HTTP/1.1" 200 None
+2025-04-16 23:34:58,860 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,914 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Hateful+Eight&year=2015 HTTP/1.1" 200 None
+2025-04-16 23:34:58,916 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:58,962 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Lighthouse&year=2019 HTTP/1.1" 200 None
+2025-04-16 23:34:58,967 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,015 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Matrix&year=1999 HTTP/1.1" 200 None
+2025-04-16 23:34:59,016 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,060 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+NeverEnding+Story&year=1984 HTTP/1.1" 200 None
+2025-04-16 23:34:59,062 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,119 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Rocketeer&year=1991 HTTP/1.1" 200 None
+2025-04-16 23:34:59,121 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,168 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Shining&year=1980 HTTP/1.1" 200 None
+2025-04-16 23:34:59,170 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,226 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=The+Terminator&year=1984 HTTP/1.1" 200 None
+2025-04-16 23:34:59,228 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,280 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Three+Amigos%21&year=1986 HTTP/1.1" 200 None
+2025-04-16 23:34:59,282 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,334 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Tombstone&year=1993 HTTP/1.1" 200 None
+2025-04-16 23:34:59,335 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,369 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Top+Secret&year=1984 HTTP/1.1" 200 None
+2025-04-16 23:34:59,371 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,414 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Total+Recall&year=1990 HTTP/1.1" 200 None
+2025-04-16 23:34:59,416 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,470 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Tremors&year=1990 HTTP/1.1" 200 None
+2025-04-16 23:34:59,471 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,528 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=True+Stories&year=1986 HTTP/1.1" 200 None
+2025-04-16 23:34:59,530 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,590 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Turbo+Kid&year=2015 HTTP/1.1" 200 None
+2025-04-16 23:34:59,592 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2025-04-16 23:34:59,653 - DEBUG - https://api.themoviedb.org:443 "GET /3/search/movie?api_key=a218e882de4990371222831b4cdcd64d&query=Twin+Peaks+Fire+Walk+with+Me&year=1992 HTTP/1.1" 200 None
+2025-04-16 23:34:59,654 - INFO - Scanning folder: \\10.0.0.249\share\movies
+2025-04-16 23:34:59,697 - WARNING - Folder does not exist: \\10.0.0.249\share\movies
+2025-04-16 23:34:59,698 - INFO - HTML file generated at: D:\gitrepo\cinema\guruthos.github.io\index.html
+2025-04-16 23:34:59,890 - INFO - Git add output:  
+2025-04-16 23:35:00,043 - INFO - Git commit output: [main 9c25332] Auto-update index.html
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 movie_library_update.log
+ 
+2025-04-16 23:35:01,979 - INFO - Git push output:  fatal: Unable to persist credentials with the 'wincredman' credential store.
+See https://aka.ms/gcm/credstores for more information.
+fatal: Unable to persist credentials with the 'wincredman' credential store.
+See https://aka.ms/gcm/credstores for more information.
+To https://github.com/guruthos/guruthos.github.io.git
+   23213a6..9c25332  main -> main
+
+2025-04-16 23:35:01,979 - INFO - Successfully pushed updates to GitHub.
+2025-04-16 23:35:01,979 - INFO - Script completed.
