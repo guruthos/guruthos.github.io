@@ -15,19 +15,31 @@
             text-align: center;
             font-family: 'great vibes', serif;
             font-weight: 400; /* only one weight is available */
+            font-size: 8rem;
+        }
+        h2 {
+            text-align: center;
+            font-family: 'bebas neue', serif;
+            font-weight: 400; /* only one weight is available */
             font-size: 6rem;
         }
         hr {
             width: 90%;
             margin-bottom: 2rem;
         }
-        .movies {
+        .movies, .shows {
             display: flex;
             flex-wrap: wrap;
             gap: 1.5rem;
             justify-content: center;
         }
-        .movie {
+        .movies hr {
+            margin-bottom: 3rem;
+        }
+        .shows hr {
+            margin-top: 1rem;
+        }
+        .movie, .show {
             background-color: #2a2a2a;
             border-radius: 8px;
             overflow: hidden;
@@ -39,7 +51,11 @@
             width: 100%;
             height: auto;
         }
-        .movie-title {
+        .show img {
+            width: 100%;
+            height: auto;
+        }
+        .movie-title, .show-title {
             padding: 0.5rem;
             font-family: 'bebas neue', serif;
             font-size: 1.5em;
@@ -48,7 +64,7 @@
     </style>
 </head>
 <body>
-    <h1>Now Playing</h1>
+    <h1>Movies</h1>
     <hr>
     <div class="movies">
         <div class="movie">
@@ -307,22 +323,12 @@
             <img src="https://image.tmdb.org/t/p/w200/rol5H6loAojd6tH2VXQYEXzGQk1.jpg" alt="Twin Peaks Fire Walk with Me poster">
             <div class="movie-title">Twin Peaks Fire Walk with Me (1992)</div>
         </div>
-    </div>
+    <hr></div>
+    
+    <h1>Shows</h1>
     <hr>
     <div class="shows">
             <div class="show">
-            <img src="https://image.tmdb.org/t/p/w200/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg" alt="30 Rock poster">
-            <div class="show-title">30 Rock (2006)</div>
-        </div>
-        <div class="show">
-            <img src="https://image.tmdb.org/t/p/w200/igseZf0ClaW0kzqnAIORuXjNxkR.jpg" alt="Review poster">
-            <div class="show-title">Review (2014)</div>
-        </div>
-        <div class="show">
-            <img src="https://image.tmdb.org/t/p/w200/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg" alt="Star Trek Deep Space Nine poster">
-            <div class="show-title">Star Trek Deep Space Nine (1993)</div>
-        </div>
-        <div class="show">
             <img src="https://image.tmdb.org/t/p/w200/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg" alt="Star Trek The Next Generation poster">
             <div class="show-title">Star Trek The Next Generation (1987)</div>
         </div>
@@ -334,6 +340,18 @@
             <img src="https://image.tmdb.org/t/p/w200/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg" alt="Twin Peaks poster">
             <div class="show-title">Twin Peaks (1990)</div>
         </div>
-    </div>
+        <div class="show">
+            <img src="https://image.tmdb.org/t/p/w200/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg" alt="Star Trek Deep Space Nine poster">
+            <div class="show-title">Star Trek Deep Space Nine (1993)</div>
+        </div>
+        <div class="show">
+            <img src="https://image.tmdb.org/t/p/w200/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg" alt="30 Rock poster">
+            <div class="show-title">30 Rock (2006)</div>
+        </div>
+        <div class="show">
+            <img src="https://image.tmdb.org/t/p/w200/igseZf0ClaW0kzqnAIORuXjNxkR.jpg" alt="Review poster">
+            <div class="show-title">Review (2014)</div>
+        </div>
+    <hr></div>
 </body>
 </html>
